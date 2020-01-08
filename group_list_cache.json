@@ -1,0 +1,19 @@
+[
+    {
+        "group_name":"LiDAR_struct_lines_tracking_test",
+        "group_version":"newest",
+        "incld_path":"/home/yuehu/Desktop/TestCode/test_git_vision_tools/LiDAR_struct_lines_tracking_test"
+    },
+    {
+        "lib_name":"libA.so",
+        "version":"newest",
+        "paths": [{"platform": "arm64-v8a", "path": "/home/yuehu/Desktop/TestCode/test_git_vision_tools/libA/arm64-v8a/libA.so"},{"platform": "x86_64", "path": "/home/yuehu/Desktop/TestCode/test_git_vision_tools/libA/x86_64/libA.so"}],
+        "platform_type": "x86_64_and_arm64-v8a"
+    },
+    {
+        "lib_name":"libB.so",
+        "version":"newest",
+        "paths": [{"platform": "arm64-v8a", "path": "/home/yuehu/Desktop/TestCode/test_git_vision_tools/libB/arm64-v8a/libB.so"}],
+        "platform_type": "arm64-v8a_only"
+    }
+]
